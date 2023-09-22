@@ -1,0 +1,60 @@
+body {
+    font-family: 'Oswald';
+    color: rgb(3, 201, 201);
+    background-color: black;
+}
+
+body h2 {
+    text-align: center;
+}
+
+.bg-light {
+    background-color: rgb(19,19,19) !important;
+}
+
+.navbar-brand, .nav-link {
+    color:aliceblue !important;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgb(3, 201, 201);
+    border-color: rgb(255, 255, 255);
+}
+
+.img_noticia {
+    height: 535px;
+}
+
+.carousel-caption {
+ 
+    background-color: rgba(31, 31, 31, 0.692);
+    border-radius: 10px;
+}
+
+.card-img-top {
+    height: 300px !important;
+}
+
+.card-body {
+    background-color: black;
+}
+
+
+.biografia {
+    background-color: black;
+}
+
+.card-title{
+    text-align: center;
+}
+
+
+.footer {
+    background-color: rgb(19, 19, 19);
+}
+
